@@ -3,3 +3,5 @@
 
 2) The Farmers Loan Calculator was built in other to help local farmers get loan and pay back with interest when they have been able to make 
 profit. However for each loan a 5% will be taken from each loan collected as interest.
+
+3) Survey Validation Form - The survey Validation is basically about understanding how we can help children learn.
